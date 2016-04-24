@@ -29,7 +29,7 @@ First , you make a new directory for work.And move your working directory, run `
 
 - `targetDir` Set your root working directory. (Default:common)
 - `target` Your index.html file name. (Default:index.html)
-- `watches` Please set your  files or directory that you want to monitoring of change.(Default:common/*.html)
+- `watches` Please set your  files or directory that you want to monitoring of change.(Default:common/**)
 - `port` Working port number. (Default:3000)
 - `openBrowser` Launching browser when you perform to command.(Default:true)
 
