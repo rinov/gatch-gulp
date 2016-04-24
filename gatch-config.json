@@ -2,10 +2,8 @@
 	"targetDir":"common",
 	"target":"index.html",
 	"watches":[
-		"common/*.html",
-		"common/css/*.css",
-		"common/js/*.js"
+		"common/*.html"
 	],
-	"port":3040,
-	"openBrowser":false
+	"port":3000,
+	"openBrowser":true
 }
