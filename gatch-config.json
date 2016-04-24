@@ -2,7 +2,7 @@
 	"targetDir":"common",
 	"target":"index.html",
 	"watches":[
-		"common/*.html"
+		"common/**"
 	],
 	"port":3000,
 	"openBrowser":true
