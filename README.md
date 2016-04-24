@@ -1,2 +1,8 @@
 # gatch-gulp
-Those are `gatch` configuration files.
+These are `gatch` configuration files.
+- package.json
+- gulpfile.js
+- gatch-config.json
+
+# LISENCE
+MIT
